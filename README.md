@@ -1,2 +1,2 @@
 ## Hi there 👋
-I'm currently focusing on learning ML!
+🎯 I'm currently focusing on learning ML!
